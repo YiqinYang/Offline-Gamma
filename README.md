@@ -5,8 +5,20 @@ This is a pytorch implementation of discount factor in Offline RL on [Datasets f
 ![ICQ-Framwork](figure.png)
 
 ## Quick Start
+For experiments on D4RL, our code is implemented based on TD3+BC, please click on the folder TD3+BC_gammma and then:
+
 ```shell
 $ python3 main.py
+```
+
+For experiments on Toy Example, please click on the folder Toy and then:
+
+```shell
+$ python3 bcq.py
+```
+
+```shell
+$ python3 dqn.py
 ```
 
 ## Citing
