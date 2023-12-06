@@ -2,7 +2,7 @@
 
 This is a pytorch implementation of discount factor in Offline RL on [Datasets for Deep Data-Driven Reinforcement Learning (D4RL)](https://github.com/rail-berkeley/d4rl), the corresponding paper is [On the Role of Discount Factor in Offline Reinforcement Learning](https://proceedings.mlr.press/v162/hu22d.html).
 
-![ICQ-Framwork](https://github.com/YiqinYang/Offline-Gamma/figure.pdf)
+![ICQ-Framwork](figure.pdf)
 
 ## Quick Start
 ```shell
